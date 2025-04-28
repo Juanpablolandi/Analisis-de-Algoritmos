@@ -8,8 +8,10 @@
 
 ## Apuntes
 
-Un **algoritmo** es un conjunto ordenado de pasos que resuelven un problema específico.  
-> "Un buen algoritmo es como una buena receta de cocina."
+Un *Algoritmo* es un conjunto de reglas para efectuar algún cálculo, bien sea a mano o, más
+frecuentemente, en una máquina. En general, una instancia de un problema consiste en la entrada (que satisface las restricciones
+impuestas en el enunciado del problema) necesaria para calcular una solución al problema.
+
 
 ### Ejemplo:
 
@@ -21,7 +23,9 @@ def suma(a, b):
 ## Resumen
 
 - Todo algoritmo tiene entrada, proceso y salida.
-- La eficiencia se mide en tiempo y espacio.
-
+- Un algoritmo debe ser rápido y usar la menor cantidad de
+recursos. Es una relación entre los recursos consumidos,
+fundamentalmente tiempo y memoria versus los productos
+obtenidos.
 ---
 [⬅️ Volver al índice](../README.md)
