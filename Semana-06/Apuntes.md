@@ -1,5 +1,10 @@
 # 🗓️ Semana 06
 ### Temas tratados
+- Notación Theta (Θ)
+- Ejemplos de Notación Theta
+- Notación Asintótica Condicional
+- Análisis de las estructuras de control
+- Secuencias
 ### Notación Theta (Θ)
 La Notación Theta (Θ) se utiliza para describir un límite ajustado (tight bound) en el crecimiento del tiempo de ejecución o el uso de recursos de un algoritmo. A diferencia de la Notación Big O (O), que solo proporciona una cota superior, y la Notación Big Omega (Ω), que da una cota inferior, la Notación Theta combina ambas. Esto significa que Θ indica que el crecimiento del algoritmo es exactamente proporcional a una función dada. Es la notación más precisa para describir la eficiencia asintótica de un algoritmo, ya que define tanto su comportamiento mínimo como máximo.
 
@@ -79,8 +84,9 @@ Bucles Para (o 'For')
 El tiempo de ejecución de un bucle 'para' depende principalmente de dos factores: el número total de iteraciones que realiza y el tiempo que toma cada iteración del bloque de código dentro del bucle.
 
 Ejemplo:
-
+```
 para i <- 1 hasta m hacer p(i) // Operación que se ejecuta en cada iteración
+```
 En este caso, la operación p(i) se ejecuta m veces. Si p(i) toma un tiempo constante C, entonces el tiempo total del bucle sería m×C, lo que resulta en una complejidad de O(m) o Θ(m).
 
 Bucles Mientras ('While') y Repetir ('Repeat-Until')
@@ -88,20 +94,22 @@ Bucles "Mientras" (While)
 Los bucles 'mientras' ejecutan un bloque de código mientras una condición específica sea verdadera. Es importante destacar que la condición se evalúa antes de cada iteración. Si la condición es falsa desde el inicio, el bloque de código dentro del bucle no se ejecutará ni una sola vez.
 
 Ejemplo:
-
+```
 mientras i ≤ m hacer
     p(i) // Bloque de código
     i <- i + 1
+```
 En este ejemplo, p(i) y la actualización de i se ejecutarán repetidamente mientras i sea menor o igual a m. La complejidad dependerá de cuántas veces se cumpla la condición.
 
 Bucles "Repetir" (Repeat-Until)
 Los bucles 'repetir' (o 'repeat-until') se diferencian de los 'mientras' en que garantizan que el bloque de código se ejecuta al menos una vez. La condición de terminación se evalúa después de cada iteración. El bucle continúa repitiéndose hasta que la condición se vuelve verdadera.
 
 Ejemplo:
-
+```
 i ← 0
 repetir
     escribir("Iteración ", i) // Bloque de código
     i ← i + 1
 hasta que (i ≥ 5)
+```
 En este ejemplo, la impresión y el incremento de i se ejecutarán al menos una vez y continuarán hasta que i sea mayor o igual a 5. Esto significa que se ejecutará exactamente 5 veces (para i = 0, 1, 2, 3, 4).
