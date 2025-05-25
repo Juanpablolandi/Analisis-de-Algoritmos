@@ -1,5 +1,5 @@
 # 🗓️ Semana 02
-### Contenidos
+### Temas tratados:
 - Algoritmia Elemental
 - Eficiencia de los Algoritmos
 - Enfoques
