@@ -19,3 +19,6 @@ La Notación Theta (Θ) se utiliza para describir un límite ajustado (tight bou
 La Notación Asintótica Condicional se refiere al estudio del comportamiento de un algoritmo bajo restricciones o supuestos específicos en la entrada, que afectan su complejidad temporal o espacial. A diferencia de las notaciones asintóticas estándar que consideran el comportamiento general, este enfoque introduce condiciones particulares que modifican la cota asintótica.
 
 Por ejemplo, un algoritmo que usualmente es O(n 2) podría convertirse en O(n) si la entrada ya está casi ordenada, o si ciertos valores no se repiten. Este tipo de análisis es útil para entender el rendimiento de un algoritmo en escenarios del mundo real donde las entradas no siempre se ajustan al "caso peor" general. Permite una evaluación más granular y específica del algoritmo en contextos definidos.
+
+[⬅️ Volver al índice](../README.md)
+
