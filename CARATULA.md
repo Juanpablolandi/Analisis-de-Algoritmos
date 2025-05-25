@@ -1,11 +1,10 @@
 # 🧾 Carátula
 
 **Asignatura:** Análisis de Algoritmos  
-**Universidad:** [Nombre de la universidad]  
-**Alumno:** [Tu nombre completo]  
-**Código:** [Código del curso si aplica]  
-**Ciclo:** Segundo ciclo  
-**Profesor:** [Nombre del profesor]  
+**Universidad:** UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA
+**Alumno:** Juan Pablo Landi Largo
+**Ciclo:** Cuarto ciclo  
+**Profesor:** Manuel Eduardo Sucunuta España  
 **Periodo Académico:** 2025-I
 
 ---
