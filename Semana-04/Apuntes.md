@@ -18,6 +18,9 @@ O(n) → Tiempo Lineal: El tiempo de ejecución crece de forma directamente prop
 
 O(nlogn) → Tiempo "Lineal-Logarítmico": Esta es una categoría de eficiencia muy deseable para muchos algoritmos de ordenamiento eficientes, como Merge Sort o Quick Sort, que combinan divisiones logarítmicas con operaciones lineales.
 
+[⬅️ Volver al índice](../README.md)
+
+
 O(n 2) → Tiempo Cuadrático: El tiempo de ejecución crece de forma cuadrática con el tamaño de la entrada. Esto es común en algoritmos que implican bucles anidados, como Bubble Sort o la búsqueda de pares en una lista.
 
 O(2 n) → Tiempo Exponencial: El tiempo de ejecución crece de forma extremadamente rápida con la entrada. Este nivel de complejidad suele asociarse con problemas que son inherentemente difíciles de resolver por fuerza bruta, como algunas soluciones al problema de las Torres de Hanoi o el problema del viajante.
