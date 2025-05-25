@@ -19,3 +19,5 @@ Demostrar por inducción matemática (o algún otro método formal) que la forma
 Ecuación Característica: Esta técnica se usa para recurrencias lineales homogéneas con coeficientes constantes. Involucra la creación de una ecuación polinómica cuyas raíces ayudan a determinar la forma de la solución.
 Método del Árbol de Recursión: Visualiza las llamadas recursivas como un árbol, sumando el costo de cada nivel para encontrar el costo total.
 Teorema Maestro: Es un método poderoso para resolver recurrencias de la forma T(n)=aT(n/b)+f(n), que son muy comunes en algoritmos de "divide y vencerás".
+
+[⬅️ Volver al índice](../README.md)
