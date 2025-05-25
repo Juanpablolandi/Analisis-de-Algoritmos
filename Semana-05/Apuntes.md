@@ -1,0 +1,3 @@
+# 🗓️ Semana 02 – Contenido aquí...
+
+(Agrega aquí los apuntes de la semana 2)
