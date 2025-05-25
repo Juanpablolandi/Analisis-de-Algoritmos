@@ -1,4 +1,4 @@
-# 🗓️ Semana 01 – Introducción a los Algoritmos
+# 🗓️ Semana 01
 
 ## Temas tratados:
 - Definición de algoritmo
