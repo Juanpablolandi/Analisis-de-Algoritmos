@@ -11,15 +11,12 @@ Bienvenido/a a mi cuaderno digital para la asignatura **Análisis de Algoritmos*
 - [Semana 05](Semana-05/Apuntes.md)
 - [Semana 06](Semana-06/Apuntes.md)
 - [Semana 07](Semana-07/Apuntes.md)
-- [Semana 08](Semana-07/Apuntes.md)
 - [Semana 09](Semana-07/Apuntes.md)
 - [Semana 10](Semana-07/Apuntes.md)
 - [Semana 11](Semana-07/Apuntes.md)
 - [Semana 12](Semana-07/Apuntes.md)
 - [Semana 13](Semana-07/Apuntes.md)
 - [Semana 14](Semana-07/Apuntes.md)
-- [Semana 15](Semana-07/Apuntes.md)
-- [Semana 16](Semana-07/Apuntes.md)
 - [Tareas](Tareas)
 
 ---
